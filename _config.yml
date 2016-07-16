@@ -1,14 +1,14 @@
-layout_spectrum: 0.9754753187298775
-typography_spectrum: 0.8708517062477767
+layout_spectrum: 0.5987775458488613
+typography_spectrum: 0.03688708133995533
 color:
-  brandStrength: 0.6868244556244463
-  lightness: 0.48437355062924325
-  saturation: 0.19509695982560515
-  rhythmicContrast: 0.49090108065865934
+  brandStrength: 0.1200272950809449
+  lightness: 0.07235498283989727
+  saturation: 0.3578227262478322
+  rhythmicContrast: 0.4893194600008428
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
 name: LaCasa
